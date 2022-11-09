@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "658574938654",
+    "firebase_url": "https://notificationproject-fdbed-default-rtdb.firebaseio.com",
+    "project_id": "notificationproject-fdbed",
+    "storage_bucket": "notificationproject-fdbed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658574938654:android:cd8f0758036434109ed40f",
+        "android_client_info": {
+          "package_name": "com.karon.notificationexample.notificationexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658574938654-c6g452r5b0dohvbvlik2blrlci7q4oq4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.karon.notificationexample.notificationexample",
+            "certificate_hash": "77861b97541c3846b1dd1d4d4ac5a8c5a33b5a54"
+          }
+        },
+        {
+          "client_id": "658574938654-93is7f2succ9ks0piosktg1voadhito9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwjNQmBN-pAM7jZQmnm7tBvNIMrwx0aDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658574938654-93is7f2succ9ks0piosktg1voadhito9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
